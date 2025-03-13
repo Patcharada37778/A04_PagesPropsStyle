@@ -10,6 +10,7 @@
     border-bottom: 1px solid lightgrey;
     display: flex;
     flex-direction: row;
+    justify-content: flex-end;
 }
 
 .logoimg {
